@@ -1,5 +1,4 @@
 #include "bspline/non_uniform_bspline.h"
-#include <ros/ros.h>
 
 namespace fast_planner
 {
