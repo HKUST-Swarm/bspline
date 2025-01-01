@@ -16,7 +16,6 @@ find_package(rclcpp REQUIRED)
 find_package(std_msgs REQUIRED)
 find_package(geometry_msgs REQUIRED)
 find_package(Eigen3 REQUIRED)
-find_package(PCL REQUIRED COMPONENTS common io) # 根据需要添加PCL组件
 find_package(rosidl_default_generators REQUIRED)
 
 # 生成消息文件
